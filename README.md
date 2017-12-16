@@ -1,6 +1,6 @@
-# vue-movies
+# vue-google-login
 
-> my movies collection
+> Simple Login using vuejs and firebase
 
 ## Build Setup
 
